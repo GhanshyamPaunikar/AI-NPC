@@ -34,4 +34,6 @@ The project opens avenues for future research and development, including:
 Exploring advanced deep learning models to further enhance NPC behaviors.
 Improving context awareness and emotional recognition to push the boundaries of immersive gaming experiences.
 
+https://youtu.be/XglIWsSAWKk?si=X5ngIiihfgndqVOg
+
 
